@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="270" viewBox="0 0 520 270" role="img" aria-label="Sri Lankan ceremonial elephant ornamental illustration">
+<defs><linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F3D99D"/><stop offset=".5" stop-color="#D79A3E"/><stop offset="1" stop-color="#8D3F2B"/></linearGradient><linearGradient id="maroon" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#711F2E"/><stop offset="1" stop-color="#2A0B19"/></linearGradient></defs>
+<g stroke="url(#gold)" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+ <path d="M105 205C81 185 74 139 96 96C120 51 182 42 277 52C349 58 397 78 420 118C438 149 421 198 393 210L356 221H152Z" fill="url(#maroon)"/>
+ <path d="M365 79C379 38 426 27 455 49C477 67 478 100 459 124C445 141 429 149 420 164L409 201C403 221 390 231 376 219C365 208 374 183 390 160C402 143 397 121 383 113" fill="url(#maroon)"/>
+ <path d="M415 112C448 102 478 110 494 130C479 151 458 158 436 149" fill="none"/>
+ <path d="M421 121C434 134 443 145 438 160" fill="none" stroke-width="2.5"/>
+ <path d="M400 102C411 112 418 123 417 138" fill="none" stroke-width="2"/>
+ <path d="M103 113C70 131 54 159 60 181C66 199 83 196 90 183" fill="none"/>
+ <path d="M137 207L131 248H165L175 213M225 216L221 248H254L260 215M323 214L325 248H357L365 207M381 206L394 247H424L421 187" fill="#3D1020"/>
+ <path d="M126 248H169M218 248H260M322 248H360M392 248H427" fill="none" stroke-width="5"/>
+ <path d="M114 104C178 70 289 69 378 106L371 166C291 141 195 145 128 172Z" fill="#7A2630"/>
+ <path d="M159 112L159 163M338 101L338 160M178 104C224 122 276 123 326 105" fill="none" stroke-width="2"/>
+ <path d="M233 90C244 70 265 70 276 90C265 111 244 111 233 90Z" fill="#D79A3E"/>
+ <path d="M243 90C250 78 259 78 266 90C259 102 250 102 243 90Z" fill="#F3D99D"/>
+ <path d="M152 165q-5 20 7 28m30-28q-5 20 7 28m130-29q-5 20 7 28m31-27q-5 20 7 28" fill="none" stroke-width="3"/>
+</g>
+<g fill="none" stroke="#E8B95F" stroke-width="2">
+ <path d="M173 119q17 20 34 0t34 0 34 0 34 0 34 0"/>
+ <path d="M174 138h164M185 149h141"/>
+ <path d="M206 107l9-8 9 8-9 8zM296 107l9-8 9 8-9 8z"/>
+ <path d="M242 174q18-26 36 0-18 26-36 0Z"/>
+</g>
+<g fill="#E7B85E"><circle cx="216" cy="90" r="4"/><circle cx="306" cy="90" r="4"/><circle cx="188" cy="159" r="3"/><circle cx="325" cy="159" r="3"/></g>
+<path d="M464 130q14-12 24 0" fill="none" stroke="#F1D99D" stroke-width="3" stroke-linecap="round"/>
+<circle cx="447" cy="82" r="4" fill="#F1D99D"/>
+</svg>
