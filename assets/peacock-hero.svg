@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Sri Lankan peacock inspired data and strategy banner</title>
+<desc id="desc">A stylised traditional peacock in burgundy and antique gold beside the words Data, Business and Marketing.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#120711"/><stop offset=".54" stop-color="#2A0B18"/><stop offset="1" stop-color="#100711"/></linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F5D995"/><stop offset=".48" stop-color="#D79A3E"/><stop offset="1" stop-color="#9C4A24"/></linearGradient>
+  <linearGradient id="feather" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6C1C2D"/><stop offset=".55" stop-color="#3B0D1D"/><stop offset="1" stop-color="#1D0814"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grain" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M0 14H28M14 0V28" stroke="#D79A3E" stroke-opacity=".045" stroke-width=".7"/><circle cx="14" cy="14" r="1.5" fill="#D79A3E" opacity=".12"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="18" fill="url(#grain)"/>
+<path d="M18 24H1182V336H18Z" fill="none" stroke="url(#gold)" stroke-opacity=".48" stroke-width="1.4"/>
+<path d="M30 44H1170M30 316H1170" stroke="#D79A3E" stroke-opacity=".20"/>
+<path d="M770 32C930 104 1002 252 1180 305M830 16C984 86 1052 226 1192 262" fill="none" stroke="#A64C2B" stroke-opacity=".14" stroke-width="2"/>
+<!-- Peacock feather fan -->
+<g transform="translate(275 188)" stroke="url(#gold)" stroke-width="2.2" stroke-linejoin="round">
+  <g transform="rotate(-132)"><path d="M0 0C-35-52-26-125 0-163C28-125 36-55 0 0Z" fill="url(#feather)"/><path d="M0-150C-18-132-18-106 0-91C18-106 18-132 0-150Z" fill="none"/><path d="M0-140V-15" fill="none" stroke-width="1.2"/></g>
+  <g transform="rotate(-105)"><path d="M0 0C-35-52-26-125 0-163C28-125 36-55 0 0Z" fill="url(#feather)"/><path d="M0-150C-18-132-18-106 0-91C18-106 18-132 0-150Z" fill="none"/><path d="M0-140V-15" fill="none" stroke-width="1.2"/></g>
+  <g transform="rotate(-78)"><path d="M0 0C-35-52-26-125 0-163C28-125 36-55 0 0Z" fill="url(#feather)"/><path d="M0-150C-18-132-18-106 0-91C18-106 18-132 0-150Z" fill="none"/><path d="M0-140V-15" fill="none" stroke-width="1.2"/></g>
+  <g transform="rotate(-51)"><path d="M0 0C-35-52-26-125 0-163C28-125 36-55 0 0Z" fill="url(#feather)"/><path d="M0-150C-18-132-18-106 0-91C18-106 18-132 0-150Z" fill="none"/><path d="M0-140V-15" fill="none" stroke-width="1.2"/></g>
+  <g transform="rotate(-24)"><path d="M0 0C-35-52-26-125 0-163C28-125 36-55 0 0Z" fill="url(#feather)"/><path d="M0-150C-18-132-18-106 0-91C18-106 18-132 0-150Z" fill="none"/><path d="M0-140V-15" fill="none" stroke-width="1.2"/></g>
+  <g transform="rotate(3)"><path d="M0 0C-35-52-26-125 0-163C28-125 36-55 0 0Z" fill="url(#feather)"/><path d="M0-150C-18-132-18-106 0-91C18-106 18-132 0-150Z" fill="none"/><path d="M0-140V-15" fill="none" stroke-width="1.2"/></g>
+  <g transform="rotate(30)"><path d="M0 0C-35-52-26-125 0-163C28-125 36-55 0 0Z" fill="url(#feather)"/><path d="M0-150C-18-132-18-106 0-91C18-106 18-132 0-150Z" fill="none"/><path d="M0-140V-15" fill="none" stroke-width="1.2"/></g>
+  <g transform="rotate(57)"><path d="M0 0C-35-52-26-125 0-163C28-125 36-55 0 0Z" fill="url(#feather)"/><path d="M0-150C-18-132-18-106 0-91C18-106 18-132 0-150Z" fill="none"/><path d="M0-140V-15" fill="none" stroke-width="1.2"/></g>
+  <g transform="rotate(84)"><path d="M0 0C-35-52-26-125 0-163C28-125 36-55 0 0Z" fill="url(#feather)"/><path d="M0-150C-18-132-18-106 0-91C18-106 18-132 0-150Z" fill="none"/><path d="M0-140V-15" fill="none" stroke-width="1.2"/></g>
+  <g transform="rotate(111)"><path d="M0 0C-35-52-26-125 0-163C28-125 36-55 0 0Z" fill="url(#feather)"/><path d="M0-150C-18-132-18-106 0-91C18-106 18-132 0-150Z" fill="none"/><path d="M0-140V-15" fill="none" stroke-width="1.2"/></g>
+</g>
+<!-- Peacock body and curled neck -->
+<g filter="url(#glow)">
+  <path d="M265 286C174 273 135 211 160 160C177 125 210 111 239 119C267 127 277 153 261 171C247 187 224 185 214 170C207 158 214 145 225 141C196 135 173 156 170 184C165 229 211 260 270 250" fill="none" stroke="url(#gold)" stroke-width="13" stroke-linecap="round"/>
+  <path d="M258 285C213 278 184 249 180 218C176 187 194 160 222 157" fill="none" stroke="#5C1426" stroke-width="7" stroke-linecap="round"/>
+  <path d="M234 120C240 101 254 91 268 94C282 97 291 110 290 124L278 135L253 135Z" fill="#571425" stroke="url(#gold)" stroke-width="3"/>
+  <path d="M262 96L254 73L270 88L282 70L278 100" fill="none" stroke="url(#gold)" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="274" cy="111" r="3.4" fill="#F4DDAE"/>
+  <path d="M287 120L311 126L288 135Z" fill="url(#gold)"/>
+  <path d="M270 134C277 160 299 181 314 198" fill="none" stroke="#D79A3E" stroke-width="2"/>
+</g>
+<!-- Traditional beadwork -->
+<g fill="#E6B65E">
+ <circle cx="275" cy="188" r="4"/><circle cx="280" cy="204" r="3"/><circle cx="287" cy="219" r="3"/><circle cx="295" cy="232" r="3"/>
+</g>
+<g fill="none" stroke="#D79A3E" stroke-opacity=".55"><path d="M70 278c35-38 65-39 94-5M55 294c39-25 69-23 98 0M420 55c34 22 48 47 50 80" stroke-width="1.5"/><circle cx="470" cy="72" r="22"/><circle cx="470" cy="72" r="13"/></g>
+<!-- Heading -->
+<g font-family="Georgia, 'Times New Roman', serif">
+  <text x="560" y="142" fill="#F3DDB0" font-size="18" letter-spacing="6">SRI LANKAN ROOTS  ·  GLOBAL PERSPECTIVE</text>
+  <text x="555" y="210" fill="#F8EEDB" font-size="52" font-weight="bold" letter-spacing="2">DATA <tspan fill="#D99B45">×</tspan> BUSINESS</text>
+  <text x="558" y="266" fill="#D99B45" font-size="34" letter-spacing="8">×  MARKETING STRATEGY</text>
+</g>
+<path d="M560 292H1080" stroke="url(#gold)" stroke-width="2"><animate attributeName="stroke-dasharray" values="0 520;520 0;0 520" dur="8s" repeatCount="indefinite"/></path>
+<circle cx="1090" cy="292" r="4" fill="#E5B15A"><animate attributeName="opacity" values=".25;1;.25" dur="2.8s" repeatCount="indefinite"/></circle>
+<g fill="none" stroke="url(#gold)" stroke-width="1.4" opacity=".65">
+  <path d="M1100 60c24 18 34 36 34 58M1116 50c29 22 43 46 43 76"/>
+  <path d="M32 300l12-12 12 12-12 12zM1150 300l12-12 12 12-12 12z"/>
+</g>
+</svg>
