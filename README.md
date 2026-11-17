@@ -39,9 +39,8 @@ I am particularly interested in the connection between data and business context
 
 ## Featured analytical project
 
-### 🇱🇰 Sri Lanka Tourism Analytics
-
-An end-to-end data analysis project exploring tourist arrival trends in Sri Lanka from January 2022 to October 2026.
+### Sri Lanka Tourism Analytics
+**An end-to-end analysis of tourist arrivals to Sri Lanka | January 2022 – October 2026**
 
 **Key Findings**
 - Annual tourist arrivals increased from **719,978 (2022)** to **2,362,521 (2025)**.
@@ -57,7 +56,13 @@ An end-to-end data analysis project exploring tourist arrival trends in Sri Lank
 
 **Tools:** Python · Pandas · NumPy · SQL · Matplotlib · Seaborn · Plotly · Jupyter Notebook
 
-[Explore Project →](https://github.com/SenLODiGi/Sri_Lanka_Tourism_Analytics)
+<a href="https://github.com/SenLODiGi/Sri_Lanka_Tourism_Analytics">
+  <img src="https://img.shields.io/badge/EXPLORE_THE_PROJECT-2A0B18?style=for-the-badge&logo=github&logoColor=E8BD72" alt="Explore Sri Lanka Tourism Analytics project" />
+</a>
+<a href="https://github.com/SenLODiGi/Sri_Lanka_Tourism_Analytics/blob/main/reports/ANALYSIS_REPORT.md">
+  <img src="https://img.shields.io/badge/READ_THE_ANALYSIS_REPORT-6D2635?style=for-the-badge&logo=readthedocs&logoColor=F3D99D" alt="Read analysis report" />
+</a>
+
 
 <img src="./divider.png" width="100%" alt="Antique gold ornamental divider" />
 
