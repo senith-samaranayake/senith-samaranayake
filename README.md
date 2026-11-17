@@ -53,17 +53,15 @@ I’m interested in practical work that connects analytical thinking with real b
 ![Excel](https://img.shields.io/badge/Excel-24202B?style=flat-square&logo=microsoftexcel&logoColor=F4C66A)
 ![Git](https://img.shields.io/badge/Git-24202B?style=flat-square&logo=git&logoColor=F4C66A)
 
-## Selected Work
+## Selected Projects
 
-A few repositories that connect software, analysis, and business problem-solving:
+A selection of practical projects that demonstrate problem-solving across data, software, and business use cases:
 
-- **[CostMap](https://github.com/SenLODiGi/CostMap)** — a project exploring cost-aware travel and route decisions.
-- **[Competitor Analyzer](https://github.com/SenLODiGi/competitor-analyzer)** — a tool-oriented project focused on competitor research and analysis.
-- **[Pro Color Palette Generator](https://github.com/SenLODiGi/Pro-Color-Palette-Generator)** — a practical web utility for generating color palettes.
-- **[Storage Checker App](https://github.com/SenLODiGi/storage-checker-app)** — an application project focused on storage visibility and management.
-- **[Ceylon Leads System](https://github.com/SenLODiGi/ceylon-leads-system)** — a business-oriented lead management project.
-
-More projects and case studies will be added as they are documented.
+- **[SmartSplit](https://github.com/SenLODiGi/smartsplit)** — group expense splitting with receipt OCR, individual line-item assignment, and debt-minimization logic.
+- **[CostMap](https://github.com/SenLODiGi/CostMap)** — travel budgeting and expense tracking tailored to local and international travelers in Sri Lanka.
+- **[Storage Checker App](https://github.com/SenLODiGi/storage-checker-app)** — a Java application that analyses disk usage and file types, produces reports, and supports file management.
+- **[BeakerBoss](https://github.com/SenLODiGi/BeakerBoss)** — a C-based chemistry laboratory inventory and safety management system, developed as a data structures and algorithms project.
+- **[Pro Color Palette Generator](https://github.com/SenLODiGi/Pro-Color-Palette-Generator)** — a web tool for creating and exporting color palettes, including image-based extraction and color-harmony modes.
 
 ## What I’m Building Towards
 
