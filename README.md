@@ -39,58 +39,25 @@ I am particularly interested in the connection between data and business context
 
 ## Featured analytical project
 
-### Sri Lanka Tourism Analytics
-**An end-to-end analysis of tourist arrivals to Sri Lanka | January 2022 – October 2026**
+### 🇱🇰 Sri Lanka Tourism Analytics
 
-<a href="https://github.com/SenLODiGi/Sri_Lanka_Tourism_Analytics">
-  <img src="https://img.shields.io/badge/EXPLORE_THE_PROJECT-2A0B18?style=for-the-badge&logo=github&logoColor=E8BD72" alt="Explore Sri Lanka Tourism Analytics project" />
-</a>
-<a href="https://github.com/SenLODiGi/Sri_Lanka_Tourism_Analytics/blob/main/reports/ANALYSIS_REPORT.md">
-  <img src="https://img.shields.io/badge/READ_THE_ANALYSIS_REPORT-6D2635?style=for-the-badge&logo=readthedocs&logoColor=F3D99D" alt="Read analysis report" />
-</a>
+An end-to-end data analysis project exploring tourist arrival trends in Sri Lanka from January 2022 to October 2026.
 
-This project examines how tourist arrivals to Sri Lanka have changed over time, how demand varies by month, and which source markets contribute most to the overall visitor mix.
+**Key Findings**
+- Annual tourist arrivals increased from **719,978 (2022)** to **2,362,521 (2025)**.
+- January–October 2026 recorded **1,862,304 arrivals**, compared with 1,890,687 in the same period of 2025.
+- India was the largest source market, contributing **1,873,958 arrivals (22.08%)**.
 
-Rather than treating visualisations as the final output, the work follows an analytical process — from inspecting and cleaning source data to exploring patterns, testing comparisons, querying datasets with SQL, and communicating the findings in a structured report.
+**Visual Insights**
 
-**Analytical scope**
-- Annual recovery and year-on-year movement in tourist arrivals.
-- Like-for-like January–October comparisons for 2026 against previous years.
-- Monthly patterns and recurring seasonality.
-- Source-market contribution and concentration.
-- Statistical summaries, SQL analysis, and interactive visual exploration.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SenLODiGi/Sri_Lanka_Tourism_Analytics/main/visualizations/matplotlib/01_yearly_tourist_arrivals.png" width="48%" alt="Annual Tourism Arrivals" />
+  <img src="https://raw.githubusercontent.com/SenLODiGi/Sri_Lanka_Tourism_Analytics/main/visualizations/matplotlib/02_jan_oct_comparison.png" width="48%" alt="Tourism Arrivals Comparison" />
+</p>
 
-**Selected findings**
-- Annual arrivals increased from **719,978 in 2022** to **2,362,521 in 2025**.
-- Sri Lanka recorded **1,862,304 arrivals from January to October 2026**, compared with **1,890,687** during the same period in 2025.
-- India accounted for **1,873,958 arrivals**, representing **22.08%** of the combined period's total and making it the largest source market in the analysis.
+**Tools:** Python · Pandas · NumPy · SQL · Matplotlib · Seaborn · Plotly · Jupyter Notebook
 
-> **Analytical context:** 2026 data covers January–October only. It is therefore compared with the same months in earlier years rather than being treated as a complete-year figure. Arrivals indicate visitor volume; they do not, by themselves, measure visitor spending, length of stay, satisfaction, or destination-level distribution.
-
-### Visual exploration
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SenLODiGi/Sri_Lanka_Tourism_Analytics/main/visualizations/matplotlib/01_yearly_tourist_arrivals.png" width="48%" alt="Annual tourist arrivals to Sri Lanka" />
-  <img src="https://raw.githubusercontent.com/SenLODiGi/Sri_Lanka_Tourism_Analytics/main/visualizations/matplotlib/02_jan_oct_comparison.png" width="48%" alt="Like-for-like January to October tourist arrivals comparison" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SenLODiGi/Sri_Lanka_Tourism_Analytics/main/visualizations/matplotlib/04_tourism_seasonality.png" width="48%" alt="Monthly tourism seasonality" />
-  <img src="https://raw.githubusercontent.com/SenLODiGi/Sri_Lanka_Tourism_Analytics/main/visualizations/seaborn/07_year_month_heatmap.png" width="48%" alt="Tourism arrivals by year and month heatmap" />
-</div>
-
-**Methodology & tools**
-
-`Data inspection → Cleaning → EDA → Statistical analysis → SQL analysis → Visualisation → Reporting`
-
-<img src="https://img.shields.io/badge/Python-2A0B18?style=flat-square&logo=python&logoColor=E8BD72" alt="Python" />
-<img src="https://img.shields.io/badge/Pandas-2A0B18?style=flat-square&logo=pandas&logoColor=E8BD72" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-2A0B18?style=flat-square&logo=numpy&logoColor=E8BD72" alt="NumPy" />
-<img src="https://img.shields.io/badge/SQL-2A0B18?style=flat-square&logo=postgresql&logoColor=E8BD72" alt="SQL" />
-<img src="https://img.shields.io/badge/Matplotlib-2A0B18?style=flat-square&logo=python&logoColor=E8BD72" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/Seaborn-2A0B18?style=flat-square&logo=python&logoColor=E8BD72" alt="Seaborn" />
-<img src="https://img.shields.io/badge/Plotly-2A0B18?style=flat-square&logo=plotly&logoColor=E8BD72" alt="Plotly" />
-<img src="https://img.shields.io/badge/Jupyter-2A0B18?style=flat-square&logo=jupyter&logoColor=E8BD72" alt="Jupyter" />
+[Explore Project →](https://github.com/SenLODiGi/Sri_Lanka_Tourism_Analytics)
 
 <img src="./divider.png" width="100%" alt="Antique gold ornamental divider" />
 
