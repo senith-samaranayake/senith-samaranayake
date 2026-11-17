@@ -54,8 +54,8 @@ I am particularly interested in the connection between data and business context
   <img src="https://raw.githubusercontent.com/SenLODiGi/Sri_Lanka_Tourism_Analytics/main/visualizations/matplotlib/02_jan_oct_comparison.png" width="48%" alt="Tourism Arrivals Comparison" />
 </p>
 
-**Tools:** 
 
+<div align="center">
 <img src="https://img.shields.io/badge/Python-2A0B18?style=flat-square&logo=python&logoColor=E8BD72" alt="Python" />
 <img src="https://img.shields.io/badge/Pandas-2A0B18?style=flat-square&logo=pandas&logoColor=E8BD72" alt="Pandas" />
 <img src="https://img.shields.io/badge/NumPy-2A0B18?style=flat-square&logo=numpy&logoColor=E8BD72" alt="NumPy" />
@@ -64,6 +64,7 @@ I am particularly interested in the connection between data and business context
 <img src="https://img.shields.io/badge/Seaborn-2A0B18?style=flat-square&logo=python&logoColor=E8BD72" alt="Seaborn" />
 <img src="https://img.shields.io/badge/Plotly-2A0B18?style=flat-square&logo=plotly&logoColor=E8BD72" alt="Plotly" />
 <img src="https://img.shields.io/badge/Jupyter-2A0B18?style=flat-square&logo=jupyter&logoColor=E8BD72" alt="Jupyter" />
+</div>
 
 <a href="https://github.com/SenLODiGi/Sri_Lanka_Tourism_Analytics">
   <img src="https://img.shields.io/badge/EXPLORE_THE_PROJECT-2A0B18?style=for-the-badge&logo=github&logoColor=E8BD72" alt="Explore Sri Lanka Tourism Analytics project" />
@@ -139,8 +140,6 @@ I welcome conversations and collaborations around data analysis, business proble
 
 <a href="https://www.linkedin.com/in/senith-samaranayake/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-2A0B18?style=for-the-badge&logo=linkedin&logoColor=E8BD72" alt="Connect on LinkedIn" /></a>
 <a href="https://github.com/SenLODiGi?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-2A0B18?style=for-the-badge&logo=github&logoColor=E8BD72" alt="Explore GitHub projects" /></a>
-
-<br /><br />
 
 <img src="./footer.png" width="100%" alt="Sri Lankan inspired burgundy and gold footer artwork" />
 
