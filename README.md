@@ -1,96 +1,84 @@
-<!-- ===================================================== -->
-<!-- 🌟 SENITH SAMARANAYAKE - BLUE THEME GITHUB README     -->
-<!-- ===================================================== -->
+<!--
+  Senith Samaranayake | GitHub Profile
+  Focus: Data Analysis · Business Analysis · Marketing Strategy
+-->
 
-<!-- Typing Animation Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=38&color=0084FF&center=true&vCenter=true&width=550&lines=Senith+Samaranayake;Marketing+Scientist;Data+Analyst+%7C+Python+%26+R+Developer;Entrepreneur;Youth+Empowerment+Speaker" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="350">
-</p>
+# Senith Samaranayake
 
----
+### DATA · BUSINESS · MARKETING
 
-# 🔹 **About Me**
-I’m **Senith**, a marketer who thinks like a data scientist and codes like a developer.  
-My passion lives in:
+**Turning information into insight, and insight into better decisions.**
 
-- **Marketing Strategy + Science**  
-- **Data Analytics (Python & R)**  
-- **Tech + Entrepreneurship**
+[LinkedIn](https://www.linkedin.com/in/senith-samaranayake/) ·
+[GitHub](https://github.com/SenLODiGi)
 
-Founder of **Startup Duo**, **CostMap**, **Grafitlabs**.
+</div>
 
 ---
 
-# 🔷 **Skillset**
+## About
 
-<p align="center">
+I’m a Computer Science and Technology undergraduate building at the intersection of **data, business, and technology**.
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="60">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="60">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="60">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60">
+My background in marketing and growth strategy shaped my interest in the questions behind business performance: what the data is saying, where the opportunities are, and how better decisions can be made.
 
-<!-- ANIMATED
-<img src="https://media.giphy.com/media/4ZgLPakqI3y3i/giphy.gif" width="70">
-<img src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGnFC/giphy.gif" width="70">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="70"> -->
+My current areas of focus:
 
-</p>
+- **Data Analysis** — exploring datasets, identifying patterns, communicating findings, and developing analytical projects.
+- **Business Analysis** — understanding business needs, mapping problems, and connecting requirements with practical solutions.
+- **Marketing Strategy** — applying market research, customer understanding, and performance insights to growth decisions.
+
+I’m interested in practical work that connects analytical thinking with real business problems.
+
+## Focus Areas
+
+| Area | Current interests |
+|---|---|
+| Data | Data exploration, analysis, visualization, statistics |
+| Business | Business research, requirements, process thinking |
+| Strategy | Market research, customer insights, marketing analytics |
+
+## Tools & Technologies
+
+**Working with / exploring**
+
+![Python](https://img.shields.io/badge/Python-24202B?style=flat-square&logo=python&logoColor=F4C66A)
+![R](https://img.shields.io/badge/R-24202B?style=flat-square&logo=r&logoColor=F4C66A)
+![SQL](https://img.shields.io/badge/SQL-24202B?style=flat-square&logo=postgresql&logoColor=F4C66A)
+![Pandas](https://img.shields.io/badge/Pandas-24202B?style=flat-square&logo=pandas&logoColor=F4C66A)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-24202B?style=flat-square&logo=python&logoColor=F4C66A)
+![Power BI](https://img.shields.io/badge/Power_BI-24202B?style=flat-square&logo=powerbi&logoColor=F4C66A)
+![Excel](https://img.shields.io/badge/Excel-24202B?style=flat-square&logo=microsoftexcel&logoColor=F4C66A)
+![Git](https://img.shields.io/badge/Git-24202B?style=flat-square&logo=git&logoColor=F4C66A)
+
+## Selected Work
+
+A few repositories that connect software, analysis, and business problem-solving:
+
+- **[CostMap](https://github.com/SenLODiGi/CostMap)** — a project exploring cost-aware travel and route decisions.
+- **[Competitor Analyzer](https://github.com/SenLODiGi/competitor-analyzer)** — a tool-oriented project focused on competitor research and analysis.
+- **[Pro Color Palette Generator](https://github.com/SenLODiGi/Pro-Color-Palette-Generator)** — a practical web utility for generating color palettes.
+- **[Storage Checker App](https://github.com/SenLODiGi/storage-checker-app)** — an application project focused on storage visibility and management.
+- **[Ceylon Leads System](https://github.com/SenLODiGi/ceylon-leads-system)** — a business-oriented lead management project.
+
+More projects and case studies will be added as they are documented.
+
+## What I’m Building Towards
+
+I’m developing a portfolio of practical projects that demonstrate a complete way of thinking:
+
+**Question → Data → Analysis → Insight → Business Decision**
+
+I value clear problem definition, transparent analysis, useful documentation, and solutions that make sense beyond the code.
 
 ---
 
-# 🔷 **Tech + Tools**
-🔹 Python • Pandas • Matplotlib  
-🔹 R • ggplot2  
-🔹 NLP • TextBlob  
-🔹 SQL • Power BI  
-🔹 Marketing Analytics  
+<div align="center">
 
----
+**DATA × BUSINESS × MARKETING**
 
-## 🚀 Mini Projects (2025-2026)
+*Curious by nature. Analytical by practice. Strategic by perspective.*
 
-| Project                            | Description                                      | Status          |
-|------------------------------------|--------------------------------------------------|-----------------|
-| Social Media Sentiment Reader      | NLP tool using TextBlob                          | 🔄 In Progress  |
-| Marketing Dashboard                | Python + Streamlit dashboard                     | 🟢 Planned      |
-| R Customer Segmentation Model      | Marketing clusters                               | 🟢 Planned      |
-| CostMap AI Model v1                | Predicting cheapest routes                       | 🔧 Building     |
-| Marketing Research Series          | New theories + frameworks                       | 🟦 Ongoing      |
-
-## 🧩 My Work & Brands
-- 🔹 **Startup Duo** – Youth empowerment & digital education  
-- 🔹 **CostMap** – Travel AI for cheapest routes  
-- 🔹 **Grafitlabs** – Marketing + tech studio  
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=senith&theme=blue&hide_border=true)
-
-## 👀 Profile Visitors
-
-![Profile Views](https://komarev.com/ghpvc/?username=senith&label=Profile%20views&color=0084ff&style=for-the-badge)
-
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
-## ⭐ Support
-
-If you enjoy my work:
-- ✔ Star ⭐ my repositories
-- ✔ Follow me
-- ✔ Collaborate with me
-
-**Let’s build something meaningful together!**
----
-*Built with passion for marketing, data, and innovation.*
+</div>
