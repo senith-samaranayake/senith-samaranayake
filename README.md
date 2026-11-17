@@ -65,13 +65,13 @@ I am particularly interested in the connection between data and business context
 <img src="https://img.shields.io/badge/Plotly-2A0B18?style=flat-square&logo=plotly&logoColor=E8BD72" alt="Plotly" />
 <img src="https://img.shields.io/badge/Jupyter-2A0B18?style=flat-square&logo=jupyter&logoColor=E8BD72" alt="Jupyter" />
 </div>
-
+<div></div>
 <div align="center">
 <a href="https://github.com/SenLODiGi/Sri_Lanka_Tourism_Analytics">
   <img src="https://img.shields.io/badge/EXPLORE_THE_PROJECT-2A0B18?style=for-the-badge&logo=github&logoColor=E8BD72" alt="Explore Sri Lanka Tourism Analytics project" />
 </a>
 <a href="https://github.com/SenLODiGi/Sri_Lanka_Tourism_Analytics/blob/main/reports/ANALYSIS_REPORT.md">
-  <img src="https://img.shields.io/badge/READ_THE_ANALYSIS_REPORT-6D2635?style=for-the-badge&logo=readthedocs&logoColor=F3D99D" alt="Read analysis report" />
+  <img src="https://img.shields.io/badge/READ_THE_ANALYSIS_REPORT-6D2635?style=for-the-badge&logo=readthedocs&logoColor=E8BD72" alt="Read analysis report" />
 </a>
 </div>
 
